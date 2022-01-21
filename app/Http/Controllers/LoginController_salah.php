@@ -63,10 +63,5 @@ class LoginController extends Controller
                 ->with('error','Email & Password are incorrect.');
         } 
 
-      
-
-
-       
-
     }
 }
